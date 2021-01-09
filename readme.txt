@@ -1,3 +1,3 @@
-Git is a version control system.
+Git is a ditributed version control system.
 Hello git!
-Something has been changed.
+Git has a mutable index called stage.
